@@ -497,7 +497,8 @@ module.exports = [
     phone: 'android',
     tags: [
       'Developer',
-      'Alpine.js',
+      'SEO',
+      'AlpineJS',
       'PHP',
       'JavaScript',
       'CSS',
